@@ -1,5 +1,7 @@
 # AI Video Analyzer (Self-Hosted, Near-Zero Cost)
 
+![App Preview](screenshots/app_preview.png)
+
 One-page Streamlit app that turns a video into:
 
 - 3 SEO-optimized titles
