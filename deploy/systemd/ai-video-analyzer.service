@@ -1,0 +1,17 @@
+[Unit]
+Description=AI Video Analyzer Streamlit service
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/ai-video-analyzer
+EnvironmentFile=/opt/ai-video-analyzer/.env
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/opt/ai-video-analyzer/.venv/bin/python -m streamlit run /opt/ai-video-analyzer/app.py --server.address=127.0.0.1 --server.port=8501 --server.headless=true --server.maxUploadSize=1024 --browser.gatherUsageStats=false
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
