@@ -3,7 +3,9 @@
 ![App Preview](screenshots/app_preview.png)
 
 ## Watch a demo of the app on YouTube by clicking on the image below:
-[![AI Video Analyzer Demo](https://img.youtube.com/vi/EzHgypd99Vw/maxresdefault.jpg)](https://youtu.be/EzHgypd99Vw)
+<a href="https://youtu.be/EzHgypd99Vw" target="_blank">
+  <img src="https://img.youtube.com/vi/EzHgypd99Vw/maxresdefault.jpg" alt="AI Video Analyzer Demo" />
+</a>
 
 One-page Streamlit app that turns a video into:
 
