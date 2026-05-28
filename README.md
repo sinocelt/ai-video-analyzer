@@ -2,6 +2,7 @@
 
 ![App Preview](screenshots/app_preview.png)
 
+## Watch a demo of the app below:
 [![AI Video Analyzer Demo](https://img.youtube.com/vi/EzHgypd99Vw/maxresdefault.jpg)](https://youtu.be/EzHgypd99Vw)
 
 One-page Streamlit app that turns a video into:
