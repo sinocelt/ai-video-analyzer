@@ -2,7 +2,8 @@
 
 ![App Preview](screenshots/app_preview.png)
 
-## Watch a demo of the app on YouTube by clicking on the image below:
+## Demo Video
+Open the image below in a new tab to watch the YouTube demo, then return here for setup instructions, source code, and project details.
 <a href="https://youtu.be/EzHgypd99Vw" target="_blank">
   <img src="https://img.youtube.com/vi/EzHgypd99Vw/maxresdefault.jpg" alt="AI Video Analyzer Demo" />
 </a>
