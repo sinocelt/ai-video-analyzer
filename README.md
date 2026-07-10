@@ -36,6 +36,8 @@ Pipeline:
 - At least one API key:
   - Gemini API key from Google AI Studio, or
   - Groq API key from Groq Console
+ 
+
 
 ## Setup
 
@@ -123,3 +125,7 @@ Included templates:
 - URL processing uses `yt-dlp`; only process content you have rights to use.
 - Large videos can be slow on CPU. Use smaller Whisper models for speed.
 - In `auto` mode, temporary Gemini 503 issues can fail over to Groq automatically.
+
+## Development Notes
+
+This project was developed with assistance from OpenAI Codex for code generation and iteration.
